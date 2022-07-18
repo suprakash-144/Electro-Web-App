@@ -1,16 +1,16 @@
-### Electro-Web-App
+# Electro-Web-App
 
-# General info
+## General info
 This is a simple To-do web app named Electro with local save feature.
 
-# Website Name
+## Website Name
 Electro
 	
-# Technologies
+## Technologies
 Project is created with:
 * HTML
 * CSS
 * Bootstrap
 * Javascript
 
-# Live Link
+## Live Link
