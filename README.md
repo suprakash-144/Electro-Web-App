@@ -14,3 +14,8 @@ Project is created with:
 * Javascript
 
 ## Live Link
+https://suprakash-144.github.io/Electro-Web-App/
+
+## Screenshots
+
+![2022-07-18](https://user-images.githubusercontent.com/92419286/179553351-abe78865-efca-4ece-a147-bc7d99b5d32f.png)
