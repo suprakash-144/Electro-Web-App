@@ -7,7 +7,7 @@
 }
 body{
     height:min(54.5vh);
-    background:url(joanna-kosinska-78uNJt1kPw8-unsplash.jpg)repeat center;
+   background:url(joanna-kosinska-78uNJt1kPw8-unsplash.jpg)repeat center center/cover;
    
 }
 .navbar-brand{
